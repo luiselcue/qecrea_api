@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_home_header_pages",
+  "info": {
+    "displayName": "link",
+    "description": "",
+    "icon": "cube"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
